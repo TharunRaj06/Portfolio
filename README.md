@@ -67,10 +67,11 @@ Highlights:
 
 ## Certifications
 
+- AI-102
 - AZ-900
 - DP-900
 - AZ-204
 
 ## Connect
 
-LinkedIn: your-link
+LinkedIn:
